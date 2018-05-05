@@ -2,7 +2,7 @@
   "name": "bookstore",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "gamethef@outlook.com",
+  "author": "gamethef@outlook.com <gamethef@outlook.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
@@ -10,15 +10,8 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "faker": "^4.1.0",
-    "firebase": "^4.13.1",
-    "moment": "^2.22.1",
     "vue": "^2.5.2",
-    "vue-i18n": "^7.6.0",
-    "vue-mugen-scroll": "^0.2.5",
-    "vue-router": "^3.0.1",
-    "vuetify": "^1.0.17",
-    "vuex": "^3.0.1"
+    "vue-router": "^3.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",

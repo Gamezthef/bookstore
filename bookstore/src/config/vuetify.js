@@ -9,7 +9,7 @@ Vue.use(Vuetify,{
         secund:colors.red.lighten4,
         accent: colors.indigo.base,
         error: colors.red.accent3,
-        Bluecustom:colors.yellow.lighten-1
+        Bluecustom:colors.yellow.lighten1
     }
 });
 
