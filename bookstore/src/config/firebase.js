@@ -1,8 +1,8 @@
 export default{
-    apiKey: "AIzaSyAcXZuMk7P_puFA_jwhvXmvruRFaW3c3YM",
-    authDomain: "bookstore-abb28.firebaseapp.com",
-    databaseURL: "https://bookstore-abb28.firebaseio.com",
-    projectId: "bookstore-abb28",
-    storageBucket: "bookstore-abb28.appspot.com",
-    messagingSenderId: "736675358562"
-}
+    apiKey: "AIzaSyAtczmTapCrgYgZ0sq5XLgZpq9Z-2wpZCI",
+    authDomain: "bookstore-68e16.firebaseapp.com",
+    databaseURL: "https://bookstore-68e16.firebaseio.com",
+    projectId: "bookstore-68e16",
+    storageBucket: "bookstore-68e16.appspot.com",
+    messagingSenderId: "767347056419"
+};
